@@ -4,6 +4,10 @@
     box-sizing: border-box;
     font-family: Roboto;
 }
+img {
+    width: 140px;
+    height: 140px;
+}
 
 body{
     display: flex;
